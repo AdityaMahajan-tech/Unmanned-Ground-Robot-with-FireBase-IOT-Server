@@ -6,3 +6,9 @@ Upload the reciver codes to the NodeMCU microcontroller present on your BOT
 and upload the transimitter code to the Glove worn by user.
 
 The glove should have 3 Acclerometers, 3 GyroScopes, 5 flex Sensors to map the postion of your hand and each of your fingers in 3D Space. 
+
+![github_small](https://user-images.githubusercontent.com/57896989/79527729-f9500c80-8085-11ea-8615-317969ccb403.jpg)
+
+![github_small](https://user-images.githubusercontent.com/57896989/79527741-fead5700-8085-11ea-80a6-3658a57def58.jpg)
+
+![github_small](https://user-images.githubusercontent.com/57896989/79527748-010fb100-8086-11ea-8ce0-610e509f663e.jpg)
